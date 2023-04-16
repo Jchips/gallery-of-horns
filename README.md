@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Gallery-of-horns (lab 1)
 
+First lab using props.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Author: Jelani Rhinehart
 
 ## Available Scripts
 
