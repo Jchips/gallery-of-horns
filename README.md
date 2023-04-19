@@ -5,6 +5,37 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Author: Jelani Rhinehart
 
+## Feature 1 - Display images
+
+Estimate of time needed to complete: 30min
+
+Start time: 9:10pm
+
+Finish time: 9:26pm?
+
+Actual time needed to complete: Almost 20 minutes maybe. There were a couple distractions in
+between (talking to people in Remo).
+
+## Feature 2 - Allow Users to Favorite Individual Beasts
+
+Estimate of time needed to complete: 30min
+
+Start time: About 9:26pm
+
+Finish time: 9:47pm
+
+Actual time needed to complete: 20min
+
+## Feature 3 - Bootstrap
+
+Estimate of time needed to complete: 50min
+
+Start time: About 9:49pm
+
+Finish time: 10:42pm
+
+Actual time needed to complete: Almost an hour
+
 ## Available Scripts
 
 In the project directory, you can run:

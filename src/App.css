@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.all-beasts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit:fill;
+}
+
+.card-body {
+  /* height: 200px; */
+}
