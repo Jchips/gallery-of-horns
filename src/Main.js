@@ -1,6 +1,7 @@
 import React from "react";
 import HornedBeast from "./HornedBeast";
 import data from "./data.json";
+import Col from 'react-bootstrap/Col';
 
 class Main extends React.Component{
   render() {
@@ -9,11 +10,13 @@ class Main extends React.Component{
       <div className="all-beasts">
         {/* creates a HornedBeast component for each object in the json file */}
           {data.map(beast =>
-            <HornedBeast
-              title={beast.title}
-              img={beast.image_url}
-              description={beast.description}>
-            </HornedBeast>
+            <Col>
+              <HornedBeast
+                title={beast.title}
+                img={beast.image_url}
+                description={beast.description}>
+              </HornedBeast>
+            </Col>
           )}
       </div>
       </>
