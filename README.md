@@ -1,4 +1,4 @@
-# Gallery-of-horns (lab 1)
+# Gallery-of-horns (lab 1, lab 2)
 
 First lab using props.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
