@@ -4,13 +4,11 @@ class Header extends React.Component{
   constructor(props) {
     super(props);
     this.state = {
-      header: 'Horned Beasts',
-      originalHeader: true
+      header: true,
     }
   }
   toggleHeader = () => {
-    // this.setState({header: 'You clicked on \'Horned Beasts\''});
-    this.setState({originalHeader: !this.state.originalHeader});
+    this.setState({header: !this.state.header});
   }
   render() {
     return(

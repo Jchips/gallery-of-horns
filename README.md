@@ -42,9 +42,9 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 8:25pm
 
-Finish time:
+Finish time: 9:30pm
 
-Actual time needed to complete:
+Actual time needed to complete: About an hour
 
 ## Available Scripts
 
