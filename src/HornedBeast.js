@@ -11,13 +11,8 @@ class HornedBeast extends React.Component{
   }
   favorites = () => this.setState({favoriteCount: this.state.favoriteCount + 1});
   render() {
-    console.log(this.props.name);
     return(
       <>
-        {/* <h2>{this.props.title}</h2>
-        <img src={this.props.img} alt={this.props.title} title={this.props.title} onClick={this.favorites}/>
-        <p>{this.props.description}</p>
-        <p>{this.state.favoriteCount} ❤️</p> */}
         <Card style={{ width: '18rem' }}>
           <Card.Img variant="top" src={this.props.img} alt={this.props.title} title={this.props.title} onClick={this.favorites}/>
           <Card.Body>

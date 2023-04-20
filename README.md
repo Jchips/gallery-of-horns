@@ -36,6 +36,16 @@ Finish time: 10:42pm
 
 Actual time needed to complete: Almost an hour
 
+## Feature 4 - Add Interaction
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 8:25pm
+
+Finish time:
+
+Actual time needed to complete:
+
 ## Available Scripts
 
 In the project directory, you can run:
