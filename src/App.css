@@ -1,0 +1,19 @@
+h1,
+footer {
+  text-align: center;
+}
+
+.all-beasts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px auto;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: fill;
+}
