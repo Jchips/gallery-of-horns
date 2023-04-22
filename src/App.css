@@ -17,3 +17,11 @@ footer {
   height: 300px;
   object-fit: fill;
 }
+
+.modal-body {
+  text-align: center;
+}
+
+.modal-body img {
+  height: 300px;
+}

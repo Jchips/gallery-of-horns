@@ -1,11 +1,25 @@
-# Gallery-of-horns (lab 1, lab 2)
+# Gallery-of-horns (lab 1, lab 2, lab 3)
 
-First lab using props.
+First lab using React.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Author: Jelani Rhinehart
 
-## Feature 1 - Display images
+## Lab 3
+
+### Feature 1 - Modal
+
+Estimate of time needed to complete: 1hr
+
+Start time: 1:06pm
+
+Finish time: 2:30pm
+
+Actual time needed to complete: About 1hr and 20mins.
+
+## Lab 2
+
+### Feature 1 - Display images
 
 Estimate of time needed to complete: 30min
 
@@ -16,7 +30,7 @@ Finish time: 9:26pm?
 Actual time needed to complete: Almost 20 minutes maybe. There were a couple distractions in
 between (talking to people in Remo).
 
-## Feature 2 - Allow Users to Favorite Individual Beasts
+### Feature 2 - Allow Users to Favorite Individual Beasts
 
 Estimate of time needed to complete: 30min
 
@@ -26,7 +40,7 @@ Finish time: 9:47pm
 
 Actual time needed to complete: 20min
 
-## Feature 3 - Bootstrap
+### Feature 3 - Bootstrap
 
 Estimate of time needed to complete: 50min
 
@@ -36,7 +50,7 @@ Finish time: 10:42pm
 
 Actual time needed to complete: Almost an hour
 
-## Feature 4 - Add Interaction
+### Feature 4 - Add Interaction
 
 Estimate of time needed to complete: 1 hour
 
