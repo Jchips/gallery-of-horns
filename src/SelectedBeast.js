@@ -8,6 +8,7 @@ class SelectedBeast extends React.Component{
   render() {
     console.log('show modal', this.props.showModal);
     return (
+      // Modal shows only when showModal === true
       <Modal show={this.props.showModal} onHide={this.handleClose}>
         <Modal.Header closeButton>
           <Modal.Title>{this.props.selectedBeast.title}</Modal.Title>

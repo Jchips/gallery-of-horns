@@ -11,7 +11,6 @@ class HornedBeast extends React.Component{
   }
 
   handleShowModal = () => {
-    // this.props.showTheModal();
     this.props.toggleModal();
     this.props.setSelectedBeast(this.props.beast);
   }
