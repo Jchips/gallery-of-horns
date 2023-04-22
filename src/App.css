@@ -23,6 +23,7 @@ footer {
 }
 
 .modal-body img {
-  height: 400px;
+  /* height: 400px; */
+  height: auto;
   max-width: 100%;
 }
