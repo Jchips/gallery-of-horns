@@ -3,6 +3,11 @@ footer {
   text-align: center;
 }
 
+.form-select {
+  width: 500px;
+  margin: auto auto;
+}
+
 .all-beasts {
   display: flex;
   flex-wrap: wrap;
