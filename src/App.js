@@ -24,7 +24,6 @@ class App extends React.Component {
   }
 
   render() {
-    console.log('selected beast', this.state.selectedBeast);
     return (
       <>
         <Header />
