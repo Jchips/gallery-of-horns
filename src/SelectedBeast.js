@@ -6,7 +6,6 @@ class SelectedBeast extends React.Component{
     this.props.toggleModal();
   }
   render() {
-    console.log('show modal', this.props.showModal);
     return (
       // Modal shows only when showModal === true
       <Modal show={this.props.showModal} onHide={this.handleClose}>
